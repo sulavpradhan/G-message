@@ -1,0 +1,23 @@
+{
+  "name": "electorn-google-messages-app",
+  "version": "1.0.0",
+  "description": "desktop app for google messages",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulavpradhan/G-message.git"
+  },
+  "author": "sulav pradhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sulavpradhan/G-message/issues"
+  },
+  "homepage": "https://github.com/sulavpradhan/G-message#readme",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  }
+}

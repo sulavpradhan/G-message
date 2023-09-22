@@ -1,0 +1,57 @@
+# Node.js / npm
+node_modules/
+
+# Yarn
+yarn-error.log
+.pnp.*
+yarn.lock
+
+# TypeScript
+*.tsbuildinfo
+*.ts
+
+# Build files
+/build/
+/dist/
+/out/
+/.next/
+/public/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.swn
+*.user
+*.suo
+*.bak
+*.cache
+*.project
+*.sublime-workspace
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.log.*
+*.db
+
+# Environment variables
+.env
+
+# Dependency directories
+.pnpm/
+yarn-offline-mirror/
