@@ -1,7 +1,7 @@
 module.exports = {
   packagerConfig: {
     asar: true,
-    icon: "/Users/macbookpro/G-message/assets/icons/", // no file extension required
+    icon: "/Users/macbookpro/G-message/assets/icons/Google_Messages_logo_2022.icns", // no file extension required
   },
   rebuildConfig: {},
   makers: [
